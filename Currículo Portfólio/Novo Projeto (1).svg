@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>Novo Projeto</title>
+	<defs>
+		<image  width="1280" height="720" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAALQAQMAAAD1s08VAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAIdJREFUeJztwTEBAAAAwqD1T20JT6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBrE3wABB8CymgAAAABJRU5ErkJggg=="/>
+		<image  width="719" height="392" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAs8AAAGIAQMAAACECZ+9AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAAAApWe5zwAAAAJ0Uk5TAP9bkSK1AAAAzElEQVR4nO3Myw2AIBRFwbezLEuzNUuyAjEu/UIw0RDnLOG+iaiqS9nmOvlzOr9JCY1Go9FoNBqNRqPRGfpQv+7G7VvD9PUJGo1Go9FoNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqPRaDQajUaj0Wg0+vL7/ABdSmdCo9FoNBqNRqPRaPTP6cPyJjQajUaj0Wg0Go1Go9FoNBqNRqPR6Ebp857SEQMajUaj0Wg0Go1umZ52O/Rf6dLQaDQajUaj0Wg0Go1Go9Fo9Dv0AgKHlAMoukbuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #ff0000 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="" href="#img2" x="334" y="328"/>
+	<path id="Forma 1" class="s0" d="m524 204c-166.7-52.2 378-285.8 172 26-206 311.8 352 138.2-172-26z"/>
+</svg>
